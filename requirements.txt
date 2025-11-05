@@ -1,0 +1,22 @@
+# requirements.txt
+
+# For data manipulation and file handling
+pandas
+xarray
+netCDF4
+PyYAML
+openpyxl
+
+# For machine learning and deep learning
+torch
+torchvision
+scikit-learn
+einops 
+
+# For data acquisition from NASA
+earthaccess
+
+# For visualization and progress bars
+matplotlib
+seaborn
+tqdm
